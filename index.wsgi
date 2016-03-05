@@ -1,6 +1,6 @@
 #coding:utf-8
 import os
-import sae
+#import sae
 import web
  
 from weixinInterface import WeixinInterface
